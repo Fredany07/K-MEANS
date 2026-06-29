@@ -27,3 +27,5 @@ Running this algorithm successfully groups the 200 shoppers into 3 distinct busi
 ---
 
 ## 🛠️ Prerequisites & Installation
+# jupter note book 
+# numpy and matplotlib
